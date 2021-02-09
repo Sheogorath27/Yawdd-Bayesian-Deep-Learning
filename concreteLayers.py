@@ -1,3 +1,6 @@
+## code taken from  :https://github.com/yaringal/ConcreteDropout
+## Code was written for TF 1, will not work on TF 2.
+
 # import tensorflow.keras
 # import tensorflow.keras.backend as K
 # from tensorflow.keras import initializers
